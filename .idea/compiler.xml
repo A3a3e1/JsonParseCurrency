@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="CurrencyJson" />
+        <module name="JsonParseCurrency" />
       </profile>
     </annotationProcessing>
   </component>

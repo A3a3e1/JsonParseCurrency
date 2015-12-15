@@ -1,4 +1,4 @@
-import name.voropaiev.currencyService.CurrencyService;
+import currency.service.CurrencyService;
 import org.junit.Test;
 
 import java.util.Map;
